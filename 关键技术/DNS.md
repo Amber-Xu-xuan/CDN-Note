@@ -1,0 +1,1 @@
+以CNAME实现to cluster，智取最优节点服务
