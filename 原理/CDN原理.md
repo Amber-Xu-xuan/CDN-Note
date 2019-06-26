@@ -8,6 +8,6 @@
 
 CDN网络：在用户和服务器之间添加Cache层
 通过接管DNS实现将用户请求引导到Cache上获得源服务器的数据
-(CDN缓存后的网络过程)[https://images0.cnblogs.com/blog/90297/201402/191451069839735.jpg]
+[CDN缓存后的网络过程](https://images0.cnblogs.com/blog/90297/201402/191451069839735.jpg)
 
 CNAME:多个域名->服务器
